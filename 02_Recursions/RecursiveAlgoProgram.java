@@ -16,4 +16,3 @@ public class RecursiveAlgoProgram {
             return 1;
         }
     }
-}
